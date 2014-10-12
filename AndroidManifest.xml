@@ -26,8 +26,24 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainMenu2"
+            android:name=".PickupListActivity"
             android:label="@string/title_activity_main_menu2" >
+        </activity>
+        <activity
+            android:name=".HomePageActivity"
+            android:label="@string/title_activity_home_page" >
+        </activity>
+        <activity
+            android:name=".UserInfoActivity"
+            android:label="@string/title_activity_user_info" >
+        </activity>
+        <activity
+            android:name=".ListItemActivity"
+            android:label="@string/title_activity_list_item" >
+        </activity>
+        <activity
+            android:name=".FinishedListActivity"
+            android:label="@string/title_activity_finished_list" >
         </activity>
     </application>
 

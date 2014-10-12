@@ -9,5 +9,9 @@
     <string name="Password">Password</string>
     <string name="Login">Login</string>
     <string name="title_activity_main_menu2">MainMenu2</string>
+    <string name="title_activity_home_page">HomePageActivity</string>
+    <string name="title_activity_user_info">UserInfoActivity</string>
+    <string name="title_activity_list_item">ListItemActivity</string>
+    <string name="title_activity_finished_list">FinishedListActivity</string>
 
 </resources>
